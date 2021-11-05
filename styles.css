@@ -1,0 +1,27 @@
+html{
+  border: 1px solid red;
+}
+
+body{
+  height: 1200px;
+  background: yellow;
+}
+
+header{
+  background: #8E05C2;
+}
+
+
+
+main{
+  border: 1px dashed red;
+}
+
+footer{
+  background: #8E05C2;
+  text-align: center;
+}
+
+.navig{
+  background: #8E05C2;
+}
